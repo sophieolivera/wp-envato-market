@@ -169,6 +169,7 @@ module.exports = function( grunt ) {
 					'!.DS_Store',
 					'!code_of_conduct.md',
 					'!composer.json',
+					'!composer.lock',
 					'!contributing.md',
 					'!dev-lib/**',
 					'!dist/**',
